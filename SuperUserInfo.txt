@@ -1,0 +1,5 @@
+Username: 		jonathan
+Email address: 		jonathan.fausset@me.com
+Password: 		pollsite
+Password (again): 	pollsite
+Superuser created successfully.
